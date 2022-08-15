@@ -189,7 +189,7 @@ blockquote p {
   color: var(--white20);
 }
 
-@media screen and (min-width: 1336px) {
+@media screen and (min-width: 1366px) {
   .header {
     position: sticky;
     inset-block-start: -45px;
